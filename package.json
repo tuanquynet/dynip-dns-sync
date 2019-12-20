@@ -1,0 +1,27 @@
+{
+  "name": "dynamic-ip",
+  "version": "1.0.0",
+  "description": "auto register ip to dns server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanquynet/dynamic-ip.git"
+  },
+  "keywords": [
+    "dynamic",
+    "ip"
+  ],
+  "author": "quy.tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanquynet/dynamic-ip/issues"
+  },
+  "homepage": "https://github.com/tuanquynet/dynamic-ip#readme",
+  "dependencies": {
+    "ipify": "^4.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
